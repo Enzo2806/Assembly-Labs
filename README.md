@@ -1,12 +1,23 @@
 # Assembly-Labs
 
-This repository conatins the assembly code and report of three different labs.
+This repository contains assembly code and reports for three distinct labs.
 
 ## Lab 1
-Function calls, recursive function calls (exponential function and factorial function written in assembly) and sorting arrys (quicksort algorithm in assembly). See details and report [here]()
+- **Topics Covered:**
+  - Function calls and recursive function calls.
+  - Implementation of exponential and factorial functions in assembly.
+  - Array sorting using the quicksort algorithm.
+- [View details and report here](https://github.com/Enzo2806/Assembly-Labs/tree/main/Lab%201).
 
 ## Lab 2
-A library implementing I/O routines, and test code, Polling-based stopwatch application, Interrupt-based stopwatch application. See details and report [here]()
+- **Topics Covered:**
+  - A library for I/O routines with test code.
+  - Polling-based and interrupt-based stopwatch applications.
+- [View details and report here](https://github.com/Enzo2806/Assembly-Labs/tree/main/Lab%202).
 
 ## Lab 3
-A library implementing a complete VGA driver (drawing things with vga), A library implementing a complete PS/2 driver (reading keyboard input), An application that draws maps on the VGA screen in response to PS/2 input (Vexillology). See details and report [here]()
+- **Topics Covered:**
+  - Implementation of a complete VGA driver for drawing.
+  - Implementation of a complete PS/2 driver for keyboard input.
+  - An application for drawing maps on the VGA screen responsive to PS/2 input (Vexillology).
+- [View details and report here](https://github.com/Enzo2806/Assembly-Labs/tree/main/Lab%203).
